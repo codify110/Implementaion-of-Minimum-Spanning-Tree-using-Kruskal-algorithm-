@@ -7,6 +7,6 @@ Given a connected and undirected graph, a spanning tree of that graph is a subgr
 ## What is KRUSKAL ALGORITHM?
 Kruskal's algorithm to find the minimum cost spanning tree uses the greedy approach. This algorithm treats the graph as a forest and every node it has as an individual tree. A tree connects to another only and only if, it has the least cost among all available options and does not violate MST properties.
 
-##OUTPUT
+## OUTPUT
 ![image](https://user-images.githubusercontent.com/69696459/129102587-ca0704db-6ff3-45c9-bd1b-bebfe951c9d3.png)
 
